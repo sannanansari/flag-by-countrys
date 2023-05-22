@@ -10,7 +10,7 @@ This NPM package is use to get the flag by using pipe property in Angular.
 
 `<div [innerHTML]=" 'country-code' | flags ">`
 
-[country code](https://46elks.com/kb/country-codes)
+[country codes](https://46elks.com/kb/country-codes)
 
 That's it,
 
