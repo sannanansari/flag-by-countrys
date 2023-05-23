@@ -8,7 +8,7 @@ This NPM package is use to get the flag by using pipe property in Angular.
 
 `<div [innerHTML]=" 'in' | flags ">` will give output of Indian flag.
 
-`<div [innerHTML]=" 'country-code' | flags ">`
+`<div [innerHTML]=" 'country code' | flags ">`
 
 [country codes](https://46elks.com/kb/country-codes)
 
